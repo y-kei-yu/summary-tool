@@ -1,3 +1,7 @@
+#envファイルを作成する必要あり。
+VITE_GEMINI_API_KEY=GeminiのAPIキー
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
