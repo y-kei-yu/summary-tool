@@ -1,5 +1,9 @@
-#envファイルを作成する必要あり。
+# envファイルを作成する必要あり。
+
 VITE_GEMINI_API_KEY=GeminiのAPIキー
+
+
+
 
 
 # React + TypeScript + Vite
